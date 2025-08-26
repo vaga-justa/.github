@@ -13,8 +13,8 @@ Este manifesto defende processos seletivos **claros, respeitosos e equilibrados*
 
 ## 📖 Documentação
 
-- [Leia-me](https://github.com/vaga-justa/vaga-justa/tree/main/docs/manifesto/pt-BR)
-- [Manifesto Completo (PT-BR)](https://github.com/vaga-justa/vaga-justa/docs/manifesto/pt-BR/)
+- [Leia-me](https://github.com/vaga-justa/vaga-justa)
+- [Manifesto Completo (PT-BR)](https://github.com/vaga-justa/vaga-justa/tree/main/docs/manifesto/pt-BR)
 - [Licença](LICENSE)
 
 ---
